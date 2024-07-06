@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-pick-color": "../uni_modules/uv-pick-color/components/uv-pick-color/uv-pick-color"
+  }
+}
